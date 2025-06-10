@@ -2,6 +2,7 @@ package Trial.MavenTrial;
 
 import java.util.Scanner;
 import java.util.NoSuchElementException;
+import java.util.Scanner.nextLine;
 import java.util.*;
 /**
  * Hello world!
