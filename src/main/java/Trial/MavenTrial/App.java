@@ -6,8 +6,9 @@ import java.util.*;
  * Hello world!
  */
 public class App {
-   Scanner scanner=new Scanner(System.in);
+  
     public static void main(String[] args) {
+        Scanner scanner=new Scanner(System.in);
         System.out.println("Hello World!");
        String name=scanner.nextLine();
         System.out.println("Enter your name:"+name);
