@@ -1,5 +1,5 @@
 package Trial.MavenTrial;
-import java.util.scanner;
+import java.util.Scanner;
 /**
  * Hello world!
  */
